@@ -1,0 +1,32 @@
+
+# Python environments
+.venv/
+.venv313/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets and environment variables
+.env
+.env.*
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# Local vector database
+.chroma_db/
+chroma_db/
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+tmp/
+temp/

@@ -1,0 +1,6 @@
+streamlit
+pypdf
+sentence-transformers
+numpy
+chromadb==1.5.9
+google-genai
